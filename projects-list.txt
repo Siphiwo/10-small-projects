@@ -1,0 +1,11 @@
+Recommended Password
+    form with username field and password
+    when clicking in password field, show suggested, password
+    generate strong random password with numbers and letters
+    when clicked on the suggested password, auto-fill password input 
+    bootsrap form link: https://getbootstrap.com/docs/4.0/components/forms/
+
+Covid - 19 Map Indicator
+    Create simple map that showas the hotspots in SA for the covid
+    link: https://documenter.getpostman.com/view/10808728/SzS8rjbc#63fda84a-6b43-4506-9cc7-2172561d5c16
+    map link: https://leafletjs.com/
